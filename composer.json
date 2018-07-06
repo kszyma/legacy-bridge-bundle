@@ -1,5 +1,5 @@
 {
-  "name": "basster/legacy-bridge-bundle",
+  "name": "kszyma/legacy-bridge-bundle",
   "type": "symfony-bundle",
   "description": "Bridge Bundle for wrapping legacy php projects (e.g. without frontcontrollers) into a symfony application.",
   "require-dev": {
